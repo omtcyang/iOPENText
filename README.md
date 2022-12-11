@@ -1,6 +1,8 @@
 # iOPENText Group
 The Northwestern Polytechnical University iOPENText Group focuses on text detection, recognition, and spotting simultaneously. This project provides kinds of resources to help junior researchers follow this field's development.
 
+Any pull requests or issues are welcome.
+
 ## Group members
 
 Chuang. Yang (Ph.D. candidate); [Homepage](https://github.com/omtcyang)
