@@ -7,4 +7,4 @@ Resources for text detection, text recognition, and end to end text spotting
 This project is developed and maintained by [the School of Computer Science, and the School of Artificial Intelligence, OPtics and Electronics (iOPEN), Northwestern
 Polytechnical University](http://iopen.nwpu.edu.cn/).
 
-<img src="iOPEN.png" alt="iOPEN">
+<img src="img/iOPEN.png" alt="iOPEN">
