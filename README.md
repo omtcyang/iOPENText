@@ -1,5 +1,5 @@
 # iOPENText Group
-The Northwestern Polytechnical University iOPENText Group focuses on text detection, recognition, and spotting simultaneously. This project provides kinds of resources to help junior researchers follow this field's development.
+The Northwestern Polytechnical University iOPENText Group focuses on text detection, recognition, and spotting simultaneously. This project provides kinds of resources to help junior researchers follow these fields' development.
 
 Any pull requests or issues are welcome.
 
