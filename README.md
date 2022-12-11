@@ -1,7 +1,7 @@
 # iOPENText Group
 The Northwestern Polytechnical University iOPENText Group  Resources for text detection, text recognition, and end to end text spotting
 
-## Introduction of group members
+## Group members
 
 Chuang. Yang (Ph.D. candidate); [Homepage](https://github.com/omtcyang)
 
