@@ -3,13 +3,15 @@ The Northwestern Polytechnical University iOPENText Group  Resources for text de
 
 ## Introduction of group members
 
-Chuang. Yang (Ph.D. candidate); [Homepage](http://iopen.nwpu.edu.cn/)
+Chuang. Yang (Ph.D. candidate); [Homepage](https://github.com/omtcyang)
 
-Xu. Han (Ph.D. candidate); [Homepage](http://iopen.nwpu.edu.cn/)
+Xu. Han (Ph.D. candidate); [Homepage](https://github.com/a885041573)
 
-Yuhu. Guo (Master candidate); [Homepage](http://iopen.nwpu.edu.cn/)
+Yuhu. Guo (Master candidate); [Homepage](https://github.com/wanfeng132)
 
-Haozhao. Ma (Master student); [Homepage](http://iopen.nwpu.edu.cn/)
+Changxing. Guo (Master candidate); [Homepage](https://github.com/guocx1g)
+
+Haozhao. Ma (Master student); [Homepage](https://github.com/hfut-mhz)
 
 ## License
 
