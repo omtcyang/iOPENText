@@ -9,6 +9,8 @@ Chuang. Yang (Ph.D. candidate); [Homepage](https://github.com/omtcyang)
 
 Xu. Han (Ph.D. candidate); [Homepage](https://github.com/a885041573)
 
+Qing. Zhou (Ph.D. candidate); [Homepage](https://github.com/Zhou2019)
+
 Yuhu. Guo (Master candidate); [Homepage](https://github.com/wanfeng132)
 
 Changxing. Guo (Master candidate); [Homepage](https://github.com/guocx1g)
