@@ -3,6 +3,14 @@ The Northwestern Polytechnical University iOPENText Group focuses on text detect
 
 Any pull requests or issues are welcome.
 
+## Directory
+
+[Text Detection](./paper%20review/text-detection.md)
+
+[Text Recognitiion](./paper%20review/text-recognition.md)
+
+[Text Spotting](./paper%20review/text-spotting.md)
+
 ## Group members
 
 Chuang. Yang (Ph.D. candidate); [Homepage](https://github.com/omtcyang)
