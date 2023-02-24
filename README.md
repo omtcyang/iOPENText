@@ -5,11 +5,11 @@ Any pull requests or issues are welcome.
 
 ## Review
 
-[Review of text detection..](./paper%20review/text-detection.md)
+[Review of text detection ..](./paper%20review/text-detection.md)
 
-[Review of text recognition..](./paper%20review/text-recognition.md)
+[Review of text recognition ..](./paper%20review/text-recognition.md)
 
-[Review of text spotting..](./paper%20review/text-spotting.md)
+[Review of text spotting ..](./paper%20review/text-spotting.md)
 
 ## Group members
 
