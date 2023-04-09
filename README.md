@@ -13,17 +13,7 @@ Any pull requests or issues are welcome.
 
 ## Group members
 
-Chuang. Yang (Ph.D. candidate); [Homepage](https://github.com/omtcyang)
-
-Xu. Han (Ph.D. candidate); [Homepage](https://github.com/a885041573)
-
-Qing. Zhou (Ph.D. candidate); [Homepage](https://github.com/Zhou2019)
-
-Yuhu. Guo (Master candidate); [Homepage](https://github.com/wanfeng132)
-
-Changxing. Guo (Master candidate); [Homepage](https://github.com/guocx1g)
-
-Haozhao. Ma (Master student); [Homepage](https://github.com/hfut-mhz)
+Chuang. Yang, Xu. Han, Qing. Zhou, Yuhu. Guo, Changxing. Guo, Haozhao. Ma
 
 ## License
 
