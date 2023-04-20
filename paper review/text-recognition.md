@@ -46,8 +46,11 @@
 | 2021 | TIP | SSTR | [Semi-Supervised Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/main/paper%20review/text%20recognition/2021-TIP-Semi-Supervised_Scene_Text_Recognition.pdf) ||
 | 2021 | TIP | SSOANSTR | [SLOAN Scale-Adaptive Orientation Attention Network for Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/main/paper%20review/text%20recognition/2021-TIP-SLOAN_Scale-Adaptive_Orientation_Attention_Network_for_Scene_Text_Recognition.pdf) ||
 | 2022 | AAAI | VSATRBISTR | [Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/main/paper%20review/text%20recognition/2022-AAAI-Visual%20Semantics%20Allow%20for%20Textual%20Reasoning%20Better%20in%20Scene%20Text%20Recognition.pdf) ||
+| 2022 | AAAI | PPLSTRWA | [Pushing the Performance Limit of Scene Text Recognizer Without Human Annotation](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2022-AAAI-Perceiving_Stroke-Semantic_Context_Hierarchical_Contrastive_Learning_for_Robust_Scene_Text_Recognition.pdf) ||
 | 2022 | CVPR | OTRVCD | [Open-Set Text Recognition via Character-Context Decoupling](https://github.com/omtcyang/iOPENText/blob/main/paper%20review/text%20recognition/2022-CVPR-Open-Set%20Text%20Recognition%20via%20Character-Context%20Decoupling.pdf) ||
 | 2022 | CVPR | SimAN | [SimAN](https://github.com/omtcyang/iOPENText/blob/main/paper%20review/text%20recognition/2022-CVPR-SimAN.pdf) ||
+| 2022 | CVPR | PPLSTRWHA | [Pushing the Performance Limit of Scene Text Recognizer Without Human Annotation](https://github.com/omtcyang/iOPENText/blob/zhaowz/2022-CVPR-Pushing_the_Performance_Limit_of_Scene_Text_Recognizer_Without_Human_CVPR_2022_paper.pdf) ||
+| 2022 | CVPR | KMSTFGR | [Knowledge Mining with Scene Text for Fine-Grained Recognition](https://github.com/omtcyang/iOPENText/blob/zhaowz/2022-CVPR-Knowledge_Mining_With_Scene_Text_for_Fine-Grained_Recognition_CVPR_2022_paper.pdf) ||
 | 2022 | ECCV | BSTRTSS | [Background-Insensitive Scene Text Recognition with Text Semantic Segmentation](https://github.com/omtcyang/iOPENText/blob/main/paper%20review/text%20recognition/2022-ECCV-Background-Insensitive%20Scene%20Text%20Recognition%20with%20Text%20Semantic%20Segmentation.pdf) ||
 | 2022 | ECCV | MPSTR | [Multi-Granularity Prediction for Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/main/paper%20review/text%20recognition/2022-ECCV-Multi-Granularity%20Prediction%20for%20Scene%20Text%20Recognition.pdf) ||
 | 2022 | ECCV | MTRNIEBVSF | [Multi-modal Text Recognition Networks Interactive Enhancements between Visual and Semantic Features](https://github.com/omtcyang/iOPENText/blob/main/paper%20review/text%20recognition/2022-ECCV-Multi-modal%20Text%20Recognition%20Networks%20Interactive%20Enhancements%20between%20Visual%20and%20Semantic%20Features.pdf) ||
@@ -60,8 +63,83 @@
 | 2022 | TCSVT | EEMENLSTRLCS | [EMU Effective Multi-Hot Encoding Net for Lightweight Scene Text Recognition With a Large Character Set](https://github.com/omtcyang/iOPENText/blob/main/paper%20review/text%20recognition/2022-TCSVT-EMU_Effective_Multi-Hot_Encoding_Net_for_Lightweight_Scene_Text_Recognition_With_a_Large_Character_Set.pdf) ||
 | 2022 | TIP | PRCOTLMISTR | [PETR Rethinking the Capability of Transformer-Based Language Model in Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/main/paper%20review/text%20recognition/2022-TIP-PETR_Rethinking_the_Capability_of_Transformer-Based_Language_Model_in_Scene_Text_Recognition.pdf) ||
 | 2022 | TMM | TRANSTR | [A Two-level Rectification Attention Network for Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/main/paper%20review/text%20recognition/2022-TMM-A_Two-level_Rectification_Attention_Network_for_Scene_Text_Recognition.pdf) ||
+| 2022 | TMM | CLTIR | [Cross-Lingual Text Image Recognition via Multi-Hierarchy Cross-Modal Mimic](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2022-TMM-Cross-Lingual_Text_Image_Recognition_via_Multi-Hierarchy_Cross-Modal_Mimic.pdf) |[论文简介](#Cross-LingualTextImageRecognitionviaMulti-HierarchyCross-ModalMimic) <span id="return_Cross-LingualTextImageRecognitionviaMulti-HierarchyCross-ModalMimic"></span>|
+| 2022 | TMM | DRN-STR | [Dual Relation Network for Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2022-TMM-Dual_Relation_Network_for_Scene_Text_Recognition.pdf) |[论文简介](#DualRelationNetworkforSceneTextRecognition) <span id="return_DualRelationNetworkforSceneTextRecognition"></span>|
+| 2022 | TMM | SAFA-RHCTS | [Recognition of Handwritten Chinese Text by Segmentation: A Segment-annotation-free Approach](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2022-TMM-Recognition_of_Handwritten_Chinese_Text_by_Segmentation_A_Segment-annotation-free_Approach.pdf) |[论文简介](#RecognitionofHandwrittenChineseTextbySegmentationASegment-annotation-freeApproach) <span id="return_RecognitionofHandwrittenChineseTextbySegmentationASegment-annotation-freeApproach"></span>|
+| 2022 | TPAMI | CSAGTLI-HR | [Content and Style Aware Generation of Text-Line Images for Handwriting Recognition](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2022-TPAMI-Content_and_Style_Aware_Generation_of_Text-Line_Images_for_Handwriting_Recognition.pdf) |[论文简介](#ContentandStyleAwareGenerationofText-LineImagesforHandwritingRecognition) <span id="return_ContentandStyleAwareGenerationofText-LineImagesforHandwritingRecognition"></span>|
+| 2023 | TPAMI | HPFE-TRN | [Searching a High Performance Feature Extractor for Text Recognition Network](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023_TPAMI_Searching_a_High_Performance_Feature_Extractor_for_Text_Recognition_Network.pdf) |[论文简介](#SearchingaHighPerformanceFeatureExtractorforTextRecognitionNetwork) <span id="return_SearchingaHighPerformanceFeatureExtractorforTextRecognitionNetwork"></span>|
+| 2023 | TPAMI | ETE-HPTR-VTN | [End-to-End Handwritten Paragraph Text Recognition Using a Vertical Attention Network](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023-TPAMI-End-to-End_Handwritten_Paragraph_Text_Recognition_Using_a_Vertical_Attention_Network.pdf) |[论文简介](#End-to-EndHandwrittenParagraphTextRecognitionUsingaVerticalAttentionNetwork) <span id="return_End-to-EndHandwrittenParagraphTextRecognitionUsingaVerticalAttentionNetwork"></span>|
+| 2023 | TPAMI | I2C2W | [Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023-TPAMI-Image-to-Character-to-Word_Transformers_for_Accurate_Scene_Text_Recognition.pdf) |[论文简介](#Image-to-Character-to-WordTransformersforAccurateSceneTextRecognition) <span id="return_Image-to-Character-to-WordTransformersforAccurateSceneTextRecognition"></span>|
+| 2023 | TNNLS | GLaLT | [GLaLT: Global-Local Attention-Augmented Light Transformer for Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023-TNNLS-GLaLT_Global-Local_Attention-Augmented_Light_Transformer_for_Scene_Text_Recognition.pdf) |[论文简介](#GLaLTGlobal-LocalAttention-AugmentedLightTransformerforSceneTextRecognition) <span id="return_GLaLTGlobal-LocalAttention-AugmentedLightTransformerforSceneTextRecognition"></span>|
+| 2023 | TCSVT | CADA | [Unsupervised Domain Adaptation via Class Aggregation for Text Recognition](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023-TCSVT-Unsupervised_Domain_Adaptation_via_Class_Aggregation_for_Text_Recognition.pdf) |[论文简介](#UnsupervisedDomainAdaptationviaClassAggregationforTextRecognition) <span id="return_UnsupervisedDomainAdaptationviaClassAggregationforTextRecognition"></span>|
+| 2023 | TMM | CASR-STR | [Character-Aware Sampling and Rectification for Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023-TMM-Character-Aware_Sampling_and_Rectification_for_Scene_Text_Recognition.pdf) |[论文简介](#Character-AwareSamplingandRectificationforSceneTextRecognition) <span id="return_Character-AwareSamplingandRectificationforSceneTextRecognition"></span>|
+| 2023 | TMM | DOC | [DOC: Text Recognition via Dual Adaptation and Clustering](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023-TMM-DOC_Text_Recognition_via_Dual_Adaptation_and_Clustering.pdf) |[论文简介](#DOCTextRecognitionviaDualAdaptationandClustering) <span id="return_DOCTextRecognitionviaDualAdaptationandClustering"></span>|
 # text recognition details
 
 <h3 id="Region-basedDiscriminativeFeaturePoolingforSceneTextRecognition">Region-based Discriminative Feature Pooling for Scene Text Recognition</h3>
 
 **名称**:&nbsp;&nbsp;[Region-based Discriminative Feature Pooling for Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/main/paper%20review/text%20recognition/2014-CVPR-Region-based%20Discriminative%20Feature%20Pooling%20for%20Scene%20Text%20Recognition.pdf)<br/>**文本状态**:&nbsp;&nbsp;传统<br/>**方法分类**:&nbsp;&nbsp;<br/>**后处理**:&nbsp;&nbsp;<br/>**实时**:&nbsp;&nbsp;N<br/>**cnn/transf**:&nbsp;&nbsp;CNN<br/>**团队**:&nbsp;&nbsp;<br/>**解决问题**:&nbsp;&nbsp;<br/>**motivation**:&nbsp;&nbsp;<br/>**discussion**:&nbsp;&nbsp;<br/>[返回](#return_Region-basedDiscriminativeFeaturePoolingforSceneTextRecognition)<br/>
+
+
+
+<h3 id="Cross-LingualTextImageRecognitionviaMulti-HierarchyCross-ModalMimic">Cross-Lingual Text Image Recognition via Multi-Hierarchy Cross-Modal Mimic</h3>
+
+**名称**:&nbsp;&nbsp;[Cross-Lingual Text Image Recognition via Multi-Hierarchy Cross-Modal Mimic](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2022-TMM-Cross-Lingual_Text_Image_Recognition_via_Multi-Hierarchy_Cross-Modal_Mimic.pdf)<br/>**文本状态**:&nbsp;&nbsp;<br/>**方法分类**:&nbsp;&nbsp;端到端识别图片文字并转化为目标语言；多层次跨模态模仿框架（MHCMM）；基于对抗学习与注意力机制进行学习；构建相应数据集验证。<br/>**后处理**:&nbsp;&nbsp;<br/>**实时**:&nbsp;&nbsp;N<br/>**cnn/transf**:&nbsp;&nbsp;CNN+Transf<br/>**团队**:&nbsp;&nbsp;Cheng-Lin Liu<br/>**解决问题**:&nbsp;&nbsp;跨语言文本图像识别，将光学字符识别与机器翻译整合<br/>**motivation**:&nbsp;&nbsp;<br/>**discussion**:&nbsp;&nbsp;<br/>[返回](#return_Cross-LingualTextImageRecognitionviaMulti-HierarchyCross-ModalMimic)<br/>
+
+
+
+<h3 id="DualRelationNetworkforSceneTextRecognition">Dual Relation Network for Scene Text Recognition</h3>
+
+**名称**:&nbsp;&nbsp;[Dual Relation Network for Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2022-TMM-Dual_Relation_Network_for_Scene_Text_Recognition.pdf)<br/>**文本状态**:&nbsp;&nbsp;<br/>**方法分类**:&nbsp;&nbsp;双重关系模块，包含视觉分支与长距离语境分支，并行方式提取互补特征。<br/>**后处理**:&nbsp;&nbsp;<br/>**实时**:&nbsp;&nbsp;N<br/>**cnn/transf**:&nbsp;&nbsp;CNN+Transf<br/>**团队**:&nbsp;&nbsp;Yu Qiao<br/>**解决问题**:&nbsp;&nbsp;低层特征提取局部特征，高层特征提取字符相关性；没有利用低层特征的长距离上下文关系。<br/>**motivation**:&nbsp;&nbsp;<br/>**discussion**:&nbsp;&nbsp;<br/>[返回](#return_DualRelationNetworkforSceneTextRecognition)<br/>
+
+
+
+<h3 id="RecognitionofHandwrittenChineseTextbySegmentationASegment-annotation-freeApproach">Recognition of Handwritten Chinese Text by Segmentation: A Segment-annotation-free Approach</h3>
+
+**名称**:&nbsp;&nbsp;[Recognition of Handwritten Chinese Text by Segmentation: A Segment-annotation-free Approach](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2022-TMM-Recognition_of_Handwritten_Chinese_Text_by_Segmentation_A_Segment-annotation-free_Approach.pdf)<br/>**文本状态**:&nbsp;&nbsp;中文手写<br/>**方法分类**:&nbsp;&nbsp;分割，弱监督学习，全卷积和上下文正则化。<br/>**后处理**:&nbsp;&nbsp;<br/>**实时**:&nbsp;&nbsp;N<br/>**cnn/transf**:&nbsp;&nbsp;CNN<br/>**团队**:&nbsp;&nbsp;<br/>**解决问题**:&nbsp;&nbsp;仿照人类认知，逐个字符分割；弱监督避免分割注释。<br/>**motivation**:&nbsp;&nbsp;<br/>**discussion**:&nbsp;&nbsp;<br/>[返回](#return_RecognitionofHandwrittenChineseTextbySegmentationASegment-annotation-freeApproach)<br/>
+
+<h3 id="ContentandStyleAwareGenerationofText-LineImagesforHandwritingRecognition">Content and Style Aware Generation of Text-Line Images for Handwriting Recognition</h3>
+
+**名称**:&nbsp;&nbsp;[Content and Style Aware Generation of Text-Line Images for Handwriting Recognition](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2022-TPAMI-Content_and_Style_Aware_Generation_of_Text-Line_Images_for_Handwriting_Recognition.pdf)<br/>**文本状态**:&nbsp;&nbsp;手写文本<br/>**方法分类**:&nbsp;&nbsp;视觉encoder与文本encoder结合生成；包含手写风格等<br/>**后处理**:&nbsp;&nbsp;<br/>**实时**:&nbsp;&nbsp;N<br/>**cnn/transf**:&nbsp;&nbsp;CNN+Transf<br/>**团队**:&nbsp;&nbsp;<br/>**解决问题**:&nbsp;&nbsp;<br/>**motivation**:&nbsp;&nbsp;提升手写行文本图像生成的质量<br/>**discussion**:&nbsp;&nbsp;<br/>[返回](#return_ContentandStyleAwareGenerationofText-LineImagesforHandwritingRecognition)<br/>
+
+
+
+<h3 id="SearchingaHighPerformanceFeatureExtractorforTextRecognitionNetwork">Searching a High Performance Feature Extractor for Text Recognition Network</h3>
+
+**名称**:&nbsp;&nbsp;[Searching a High Performance Feature Extractor for Text Recognition Network](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023_TPAMI_Searching_a_High_Performance_Feature_Extractor_for_Text_Recognition_Network.pdf)<br/>**文本状态**:&nbsp;&nbsp;<br/>**方法分类**:&nbsp;&nbsp;NAS，TR网络中的特征提取器的选择，设计搜索空间，提出两阶段搜索算法<br/>**后处理**:&nbsp;&nbsp;<br/>**实时**:&nbsp;&nbsp;N<br/>**cnn/transf**:&nbsp;&nbsp;<br/>**团队**:&nbsp;&nbsp;Xiang Bai<br/>**解决问题**:&nbsp;&nbsp;特征提取器的选择困难以及延迟限制<br/>**motivation**:&nbsp;&nbsp;<br/>**discussion**:&nbsp;&nbsp;<br/>[返回](#return_SearchingaHighPerformanceFeatureExtractorforTextRecognitionNetwork)<br/>
+
+
+
+<h3 id="End-to-EndHandwrittenParagraphTextRecognitionUsingaVerticalAttentionNetwork">End-to-End Handwritten Paragraph Text Recognition Using a Vertical Attention Network</h3>
+
+**名称**:&nbsp;&nbsp;[End-to-End Handwritten Paragraph Text Recognition Using a Vertical Attention Network](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023-TPAMI-End-to-End_Handwritten_Paragraph_Text_Recognition_Using_a_Vertical_Attention_Network.pdf)<br/>**文本状态**:&nbsp;&nbsp;无约束手写文本<br/>**方法分类**:&nbsp;&nbsp;三模块端到端模型（FCN提取生成特征图；Hybrid Attention行特征，隐式行分割；Decoder实现识别）<br/>**后处理**:&nbsp;&nbsp;<br/>**实时**:&nbsp;&nbsp;N<br/>**cnn/transf**:&nbsp;&nbsp;both<br/>**团队**:&nbsp;&nbsp;<br/>**解决问题**:&nbsp;&nbsp;端到端，行分割与段落识别问题<br/>**motivation**:&nbsp;&nbsp;<br/>**discussion**:&nbsp;&nbsp;<br/>[返回](#return_End-to-EndHandwrittenParagraphTextRecognitionUsingaVerticalAttentionNetwork)<br/>
+
+
+
+<h3 id="Image-to-Character-to-WordTransformersforAccurateSceneTextRecognition">Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition</h3>
+
+**名称**:&nbsp;&nbsp;[Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023-TPAMI-Image-to-Character-to-Word_Transformers_for_Accurate_Scene_Text_Recognition.pdf)<br/>**文本状态**:&nbsp;&nbsp;<br/>**方法分类**:&nbsp;&nbsp;两个模块，I2C映射到字符，C2W映射到单词<br/>**后处理**:&nbsp;&nbsp;<br/>**实时**:&nbsp;&nbsp;N<br/>**cnn/transf**:&nbsp;&nbsp;both<br/>**团队**:&nbsp;&nbsp;Shijian Lu<br/>**解决问题**:&nbsp;&nbsp;纠正了错误检测的字符候选<br/>**motivation**:&nbsp;&nbsp;<br/>**discussion**:&nbsp;&nbsp;<br/>[返回](#return_Image-to-Character-to-WordTransformersforAccurateSceneTextRecognition)<br/>
+
+
+
+<h3 id="GLaLTGlobal-LocalAttention-AugmentedLightTransformerforSceneTextRecognition">GLaLT: Global-Local Attention-Augmented Light Transformer for Scene Text Recognition</h3>
+
+**名称**:&nbsp;&nbsp;[GLaLT: Global-Local Attention-Augmented Light Transformer for Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023-TNNLS-GLaLT_Global-Local_Attention-Augmented_Light_Transformer_for_Scene_Text_Recognition.pdf)<br/>**文本状态**:&nbsp;&nbsp;水平文本<br/>**方法分类**:&nbsp;&nbsp;使用Transformer-based encoder-decoder structure , 编码器使用自注意与卷积，解码器使用注意力与CTC模块。<br/>**后处理**:&nbsp;&nbsp;<br/>**实时**:&nbsp;&nbsp;N<br/>**cnn/transf**:&nbsp;&nbsp;both<br/>**团队**:&nbsp;&nbsp;Feiyue Wang<br/>**解决问题**:&nbsp;&nbsp;注意力机制训练慢但精度高，CTC速度快但精度低。<br/>**motivation**:&nbsp;&nbsp;<br/>**discussion**:&nbsp;&nbsp;<br/>[返回](#return_GLaLTGlobal-LocalAttention-AugmentedLightTransformerforSceneTextRecognition)<br/>
+
+
+
+<h3 id="UnsupervisedDomainAdaptationviaClassAggregationforTextRecognition">Unsupervised Domain Adaptation via Class Aggregation for Text Recognition</h3>
+
+**名称**:&nbsp;&nbsp;[Unsupervised Domain Adaptation via Class Aggregation for Text Recognition](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023-TCSVT-Unsupervised_Domain_Adaptation_via_Class_Aggregation_for_Text_Recognition.pdf)<br/>**文本状态**:&nbsp;&nbsp;水平文本<br/>**方法分类**:&nbsp;&nbsp;双重类内聚合的无监督自适应策略（CADA），字符的视觉和语义对齐；<br/>**后处理**:&nbsp;&nbsp;<br/>**实时**:&nbsp;&nbsp;N<br/>**cnn/transf**:&nbsp;&nbsp;both<br/>**团队**:&nbsp;&nbsp;Xin-Shun Xu<br/>**解决问题**:&nbsp;&nbsp;跨域文本识别的域漂移问题；现有无监督自适应方法忽视字符特征；<br/>**motivation**:&nbsp;&nbsp;<br/>**discussion**:&nbsp;&nbsp;<br/>[返回](#return_UnsupervisedDomainAdaptationviaClassAggregationforTextRecognition)<br/>
+
+
+
+<h3 id="Character-AwareSamplingandRectificationforSceneTextRecognition">Character-Aware Sampling and Rectification for Scene Text Recognition</h3>
+
+**名称**:&nbsp;&nbsp;[Character-Aware Sampling and Rectification for Scene Text Recognition](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023-TMM-Character-Aware_Sampling_and_Rectification_for_Scene_Text_Recognition.pdf)<br/>**文本状态**:&nbsp;&nbsp;不规则文本<br/>**方法分类**:&nbsp;&nbsp;基于字符感知采样和矫正网络（CASR-Net），通过基于字符几何属性逐字符矫正和识别不规则文本<br/>**后处理**:&nbsp;&nbsp;<br/>**实时**:&nbsp;&nbsp;N<br/>**cnn/transf**:&nbsp;&nbsp;CNN<br/>**团队**:&nbsp;&nbsp;Yu Qiao<br/>**解决问题**:&nbsp;&nbsp;文本级别等距采样忽略字符级信息，导致字符形变扭曲。<br/>**motivation**:&nbsp;&nbsp;<br/>**discussion**:&nbsp;&nbsp;<br/>[返回](#return_Character-AwareSamplingandRectificationforSceneTextRecognition)<br/>
+
+
+
+<h3 id="DOCTextRecognitionviaDualAdaptationandClustering">DOC: Text Recognition via Dual Adaptation and Clustering</h3>
+
+**名称**:&nbsp;&nbsp;[DOC: Text Recognition via Dual Adaptation and Clustering](https://github.com/omtcyang/iOPENText/blob/zhaowz/paper%20review/text%20recognition/2023-TMM-DOC_Text_Recognition_via_Dual_Adaptation_and_Clustering.pdf)<br/>**文本状态**:&nbsp;&nbsp;不规则文本<br/>**方法分类**:&nbsp;&nbsp;双自适应与聚类的文本识别模型，分别进行全局与局部自适应<br/>**后处理**:&nbsp;&nbsp;<br/>**实时**:&nbsp;&nbsp;N<br/>**cnn/transf**:&nbsp;&nbsp;CNN<br/>**团队**:&nbsp;&nbsp;Xin-Shun Xu<br/>**解决问题**:&nbsp;&nbsp;文本无监督自适应领域忽略了字符级特征。<br/>**motivation**:&nbsp;&nbsp;<br/>**discussion**:&nbsp;&nbsp;<br/>[返回](#return_DOCTextRecognitionviaDualAdaptationandClustering)<br/>
